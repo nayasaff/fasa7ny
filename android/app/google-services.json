@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "906431667902",
+    "firebase_url": "https://fasa7ny-61e40-default-rtdb.firebaseio.com",
+    "project_id": "fasa7ny-61e40",
+    "storage_bucket": "fasa7ny-61e40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906431667902:android:24dc1179d38bf8767d08ef",
+        "android_client_info": {
+          "package_name": "egy.post"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906431667902-4puvs3dluje776ki74rdc15m3tv842i3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYLR3I7vlp_xoGTyo7XMJhNsG8IWCjYOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906431667902-4puvs3dluje776ki74rdc15m3tv842i3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906431667902:android:26f60535f5800e687d08ef",
+        "android_client_info": {
+          "package_name": "giu.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906431667902-4puvs3dluje776ki74rdc15m3tv842i3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYLR3I7vlp_xoGTyo7XMJhNsG8IWCjYOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906431667902-4puvs3dluje776ki74rdc15m3tv842i3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
